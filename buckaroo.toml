@@ -1,0 +1,3 @@
+[[dependency]]
+package = "github.com/njlr/buckaroo-test-cycle-1"
+version = "*"
